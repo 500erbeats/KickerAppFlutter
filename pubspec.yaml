@@ -1,7 +1,7 @@
 name: kicker_app
 description: Kicker-Auslosung, Ergebnisse und Tabellen – Flutter-Port (iOS-Look via Cupertino, Android-Look via Material)
 publish_to: "none"
-version: 1.0.0+1
+version: 1.1.0+1
 
 environment:
   sdk: ">=3.3.0 <4.0.0"
